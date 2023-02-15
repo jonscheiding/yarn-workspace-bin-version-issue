@@ -54,6 +54,11 @@ $ /Users/jonscheiding/Code/Personal/yarn-workspace-bin-version-issue/node_module
 ✨  Done in 0.32s.
 ```
 
+`node prettier-version.js`
+```
+2.8.4
+```
+
 `yarn workspace @ywsbv/unrelated-package add uuid`
 ```shell
 yarn workspace v1.22.19
@@ -103,6 +108,11 @@ $ /Users/jonscheiding/Code/Personal/yarn-workspace-bin-version-issue/node_module
 ✨  Done in 0.26s.
 ```
 
+`node prettier-version.js`
+```
+2.3.0
+```
+
 `yarn install`
 ```shell
 yarn install v1.22.19
@@ -119,4 +129,9 @@ yarn run v1.22.19
 $ /Users/jonscheiding/Code/Personal/yarn-workspace-bin-version-issue/node_modules/.bin/prettier -v
 2.8.4
 ✨  Done in 0.26s.
+```
+
+`node prettier-version.js`
+```
+2.3.0
 ```
